@@ -4,23 +4,38 @@ Just clone this repository or click the `Use This Template` button or use degit 
 
 ---
 
+## Quick Clone:
+
+```shell
+npx degit KrishGarg/vite-react-tailwind-jit-template#main
+```
+
+## Demo Site: vite-react-tailwind.surge.sh
+
+---
+
 ## Commands:
+
 To start the dev server on your machine:
+
 ```shell
 yarn dev
 ```
 
 To start the dev server on your network:
+
 ```shell
 yarn dev --host
 ```
 
 To make the production build:
+
 ```shell
 yarn build
 ```
 
 To preview the production build locally:
+
 ```shell
 yarn serve
 ```
